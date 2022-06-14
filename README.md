@@ -71,4 +71,5 @@ NzYxODF1OikyNDEyOTE1NzKz.X // Token #2 - Add as many or as little as you want
 **5.** Find **token** at the bottom and copy the value<br/>
 ***
 ### Disclaimer
+[![Run on Repl.it](https://repl.it/badge/github/noto-rious/Nitro.Self-V3)](https://repl.it/github/noto-rious/Nitro.Self-V3)
 This is a self-bot which goes against the Discord ToS agreement. Use it at your own risk.
